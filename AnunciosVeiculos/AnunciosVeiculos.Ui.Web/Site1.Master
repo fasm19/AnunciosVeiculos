@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" Aprofeor CalutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="AnunciosVeiculos.Ui.Web.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Anúncios Veiculos</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="../Default.aspx">Anúncios Veículos</a>
+                    </div>
+                    <ul class="nav navbar-nav">
+                        <li><a href="../Usuario/UsuarioEdicao.aspx">Usuários</a></li>
+                        <li><a href="../Marca/MarcaEdicao.aspx">Marcas</a></li>
+                        <li><a href="../Modelo/ModeloEdicao.aspx">Modelos</a></li>
+                        <li><a href="../Veiculo/VeiculoEdicao.aspx">Veículos</a></li>
+                    </ul>
+
+                    <div class="navbar-form navbar-right">
+                        <asp:Button ID="btnConfirmar" runat="server" Text="Sair" CssClass="btn btn-danger" OnClick="btnConfirmar_Click" UseSubmitBehavior="False" />
+                    </div>
+                </div>
+            </nav>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

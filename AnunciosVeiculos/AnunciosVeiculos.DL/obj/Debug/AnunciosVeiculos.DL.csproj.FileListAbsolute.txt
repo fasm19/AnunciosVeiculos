@@ -1,0 +1,5 @@
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Trabalho - AnunciosVeiculos\AnunciosVeiculos\AnunciosVeiculos.DL\bin\Debug\AnunciosVeiculos.DL.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Trabalho - AnunciosVeiculos\AnunciosVeiculos\AnunciosVeiculos.DL\bin\Debug\AnunciosVeiculos.DL.pdb
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Trabalho - AnunciosVeiculos\AnunciosVeiculos\AnunciosVeiculos.DL\obj\Debug\AnunciosVeiculos.DL.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Trabalho - AnunciosVeiculos\AnunciosVeiculos\AnunciosVeiculos.DL\obj\Debug\AnunciosVeiculos.DL.dll
+C:\Users\Felipe\Documents\Visual Studio 2015\Projects\Trabalho - AnunciosVeiculos\AnunciosVeiculos\AnunciosVeiculos.DL\obj\Debug\AnunciosVeiculos.DL.pdb
