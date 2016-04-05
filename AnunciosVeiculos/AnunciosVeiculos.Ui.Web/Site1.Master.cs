@@ -11,6 +11,11 @@ namespace AnunciosVeiculos.Ui.Web
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            
+        }
+
+        protected void btnConfirmar_Click(object sender, EventArgs e)
+        {
 
         }
     }

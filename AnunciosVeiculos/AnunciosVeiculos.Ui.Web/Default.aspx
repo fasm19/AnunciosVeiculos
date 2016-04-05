@@ -2,10 +2,10 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="jumbotron">
-        <h1>Anúncios Veículos
+        <h2>Anúncios Veículos
             <br />
             <small>Trabalho de Linguagem Web</small>
-        </h1>
+        </h2>
         <p class="lead">Profº: Matheus Lara Calache</p>
         <hr />
         <p>Desenvolvido por: Felipe Mendes</p>
